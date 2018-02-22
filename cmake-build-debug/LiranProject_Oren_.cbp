@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LiranProject_Oren_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projectApp">
+				<Option output="/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/projectApp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 projectApp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projectApp/fast">
+				<Option output="/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/projectApp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 projectApp/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ubuntu/Desktop/LiranProject-Oren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/argumentsParser.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/consumner_and_producer.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/create_pipe.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/my_signal.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/path.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/question.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/server.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Code/shared_memory.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/argumentsParser.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/consumner_and_producer.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/create_pipe.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/global_variables.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/my_signal.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/path.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/question.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/server.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/C/Headers/shared_memory.h">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/main.c">
+			<Option target="projectApp"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Desktop/LiranProject-Oren/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
